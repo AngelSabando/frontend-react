@@ -1,5 +1,3 @@
-// src/UserList.tsx
-// src/UserList.tsx
 import type { UserData } from './types';
 
 interface UserListProps {

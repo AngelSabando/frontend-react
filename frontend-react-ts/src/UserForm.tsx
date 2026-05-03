@@ -1,4 +1,4 @@
-// src/UserForm.tsx
+
 import { useState, type FormEvent, type ChangeEvent } from 'react';
 import type { UserData } from './types';
 

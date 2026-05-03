@@ -1,4 +1,4 @@
-// src/App.tsx
+
 import { useState, useEffect } from 'react';
 import { UserForm } from './UserForm';
 import { UserList } from './UserList';
@@ -61,7 +61,7 @@ function App() {
 
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto', fontFamily: 'sans-serif', padding: '20px' }}>
-      <h1 style={{ textAlign: 'center' }}>User Management (React + PHP + ORM)</h1>
+      <h1 style={{ textAlign: 'center' }}>User Management</h1>
       
       {notification && (
         <div style={{ 
